@@ -9,21 +9,21 @@ TeamEvie, creators of [Evie] a free to use feature rich Discord Bot.
 Our [Website] always needs fixing as [tristan] the lead developer knows barely anything about ***websites***
 
 ## Invite & About Evie
-# Evie Bot
+### Evie Bot
 <a href="https://top.gg/bot/807543126424158238">
   <img src="https://top.gg/api/widget/807543126424158238.svg">
 </a>
 
-## Moderation
+#### Moderation
 - Automatically detect phishing links in your Discord server and delete them using the [Phisherman API](http://phisherman.gg)
 - Using the [Dashboard](https://dash.eviebot.rocks/) set banned words and/or use our default list of banned words to protect your Discord server.
 - Welcome new people that join your Discord server and set a custom message in the [Dashboard](https://dash.eviebot.rocks/)
 - Change the colour Evie uses for every embed in your server on the [Dashboard](https://dash.eviebot.rocks/)
-## Utilities
+#### Utilities
 - Google the internet with `/google <thing you want to search for>`
 - If you ping @Evie✨#1625 she will now respond with a message on how to use her commands!
 - Need help with any commands `/help`
-## $EVIE
+#### $EVIE
 - See how much $EVIE you have with `/bal`
 - Vote for a free 10k $EVIE `/vote`
 -   Beg for money with `/beg`
@@ -33,9 +33,9 @@ Our [Website] always needs fixing as [tristan] the lead developer knows barely a
    finally start baking those muffins with `/bake muffin` You can also
    sell those muffins for money `/sell <itemid>` (if you ever want to
    know an item id do `/shop` to see a list of the item ids!)
-## Music
+#### Music
 - Play music from Soundcloud with `/play` and `/stop` for all servers with Evie! (skipping and other commands coming soon!)
-## Minecraft
+#### Minecraft
 - Check your Minecraft player stats on `tristansmp.com` with `/playerstats <username>`
 - See stats on any Minecraft server with `/serverstats <server ip>`
 
