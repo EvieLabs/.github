@@ -4,10 +4,6 @@
 
 TeamEvie, creators of [Evie] a free to use feature rich Discord Bot.
 
-## Get Involved
-
-Our [Website] always needs fixing as [tristan] the lead developer knows barely anything about ***websites***. You can find the source code on this repo [EvieWeb] on tristan's personal github.
-
 ## Invite & About Evie
 ### Evie Bot
 <a href="https://top.gg/bot/807543126424158238">
